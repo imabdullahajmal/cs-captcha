@@ -28,7 +28,7 @@ A lightweight, client-side CAPTCHA system built with HTML, JavaScript, and CSS t
 ## Usage
 1. Enter the CAPTCHA code displayed in the image.
 2. Click "Verify" to check if the entered code is correct.
-3. Click "Refresh" to generate a new CAPTCHA if needed.
+3. Refresh to generate a new CAPTCHA if needed.
 
 ## Example Code
 ```html
